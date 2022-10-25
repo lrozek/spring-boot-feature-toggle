@@ -1,0 +1,2 @@
+logging.level.pl.lrozek.springbootfeaturetoggle.SpringBootFeatureToggleApplication: WARN
+spring.main.banner-mode: off
